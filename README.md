@@ -5,11 +5,19 @@
    At the beginning, ARSCA was a YouTube channel that created for some kind of honest review on new BSC Projects, and intended to inform the viewers about rug-analysis for the projects and evaluate it.
 
    And then we came with an idea of ARSCA as a BSC Project by doing a greater contribution to the whole BSC community through ARSCA Directory, ARSCA Tools, and ARSCA Finance, which will be fully explained on the Projects section on ARSCA Whitepaper.
-   
+
+
+
 JOIN ARSCA!
+
 Website; https://arsca.io
+
 Twitter; https://twitter.com/ARSCAProject
+
 Telegram; https://t.me/arscacommunity
+
 YouTube; https://www.youtube.com/c/AntiRugSmartChain
+
 Reddit; https://www.reddit.com/user/arscaofficial
+
 Medium; https://medium.com/@arscaofficial
