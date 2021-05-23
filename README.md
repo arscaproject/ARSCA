@@ -10,7 +10,7 @@
 
 JOIN ARSCA!
 
-Website; https://arsca.io
+Website; https://arsca.network
 
 Twitter; https://twitter.com/ARSCAProject
 
