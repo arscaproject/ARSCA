@@ -1,3 +1,3 @@
-https//:arsca.directory
+https://arsca.directory
 This section is for ARSCA Directory only!
 ARSCA Audit = Anti-Rug Analysis lists
